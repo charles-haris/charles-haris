@@ -13,7 +13,7 @@ I am a results-oriented software engineer with expertise in building efficient w
 - 
 ## My skills
 
-![Test Image 1](3DTest.png)
+![Test Image 1]([3DTest.png](https://cdn-icons-png.flaticon.com/512/25/25231.png))
 
 ![Test Image 2](“3DTest.png”)
 
