@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi 👋 My name is Charles-Haris
+<hr>
+Software Developer (Backend Developer)
+<hr>
+
+As a highly skilled and results-driven software engineer with expertise in PHP, Laravel, and backend development, I specialize in building scalable, high-performance applications and solving complex technical challenges to drive business growth and innovation.
+
+<hr>
 
 <!--
 **charles-haris/charles-haris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
