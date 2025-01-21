@@ -1,5 +1,5 @@
-## Hi 👋 My name is Charles-Haris
-#Software Developer (Backend Developer)
+# Hi 👋 My name is Charles-Haris
+## Software Developer (Backend Developer)
 
 As a highly skilled and results-driven software engineer with expertise in PHP, Laravel, and backend development, I specialize in building scalable, high-performance applications and solving complex technical challenges to drive business growth and innovation.
 
