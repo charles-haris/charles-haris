@@ -13,7 +13,7 @@ I am a results-oriented software engineer with expertise in building efficient w
 - 
 ## My skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,php,ts,laravel,django,nodejs,react,angular,bootstrap,tailwind,mysql,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,php,ts,laravel,django,nodejs,react,angular,bootstrap,tailwind,mysql,git)](https://skillicons.dev)
 
 
 
