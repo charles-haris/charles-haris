@@ -6,7 +6,7 @@ I am a results-oriented software engineer with expertise in building efficient w
 
 - 🔭 I’m currently working on a job portal
 - 🌱 I’m currently learning Django
-- 💻 Have a look at my portfolio charles-haris.org
+- 💻 Have a look at my portfolio  [charles-haris](https://charles-haris.org)
 - 🤝 Ready to collaborate on interesting projects
 - 📫 contact me: bouassecharles14@gmail.com
 
