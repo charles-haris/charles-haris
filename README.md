@@ -1,12 +1,11 @@
 # Hi 👋 My name is Charles-Haris
-## Software Developer (Backend Developer)
+## Senior Software Developer (Backend Developer)
 
-I am a results-oriented software engineer with expertise in building efficient web applications and backend systems tailored for businesses and individuals. Over the course of my career, I have worked on a lot of applications related to various sectors. My technical experience covers a diverse range of tools and frameworks, including Php, JavaScript, TypeScript, Python, Java, Laravel, Angular, React, NodeJS.
+I am a results-oriented software engineer with expertise in building efficient web applications and backend systems tailored for businesses and individuals. Over the course of my career, I have worked on a lot of applications related to various sectors. My technical experience covers a diverse range of tools and frameworks, including Php, JavaScript, TypeScript, Python, Java, Laravel, Angular, React, NodeJS, Django.
 
 
-- 🔭 I’m currently working on a job portal
+- 🔭 I’m currently working on an AI powered Tenancy Management System with Django
 - 🌍 I’m based in Ghana, Accra.
-- 🌱 I’m currently learning Django
 - 💻 Have a look at my portfolio  [charles-haris](https://charles-haris.org)
 - 🤝 Ready to collaborate on interesting projects
 - 📫 contact me: bouassecharles14@gmail.com
