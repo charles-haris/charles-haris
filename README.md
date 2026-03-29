@@ -1,7 +1,7 @@
 # Hi 👋 My name is Charles-Haris
 ## Senior Software Developer (FullStack Developer)
 
-I am a results-oriented software engineer with expertise in building efficient web applications and backend systems tailored for businesses and individuals. Over the course of my career, I have worked on a lot of applications related to various sectors. My technical experience covers a diverse range of tools and frameworks, including Php, JavaScript, TypeScript, Python, Java, Laravel, Angular, React, NodeJS, Django, Machine Learning, Deep Learning, AI Integration.
+I am a results-oriented software engineer with expertise in building efficient web applications and backend systems with AI capabilities tailored for businesses and individuals. Over the course of my career, I have worked on a lot of applications related to various sectors. My technical experience covers a diverse range of tools and frameworks, including Php, JavaScript, TypeScript, Python, Java, Laravel, Angular, React, NodeJS, Django, Machine Learning, Deep Learning, AI Integration.
 
 
 - 🔭 I’m currently working on an AI powered Tenancy Management System with Django
